@@ -1,2 +1,2 @@
-# Pandas01
+# Pandas
 Learning Pandas 
